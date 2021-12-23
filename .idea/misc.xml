@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/drawable/arrow_next.xml" value="0.2203125" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/drawable/faded_gradient.xml" value="0.2203125" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/drawable/icon_location.xml" value="0.2203125" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/drawable/icon_search.xml" value="0.2203125" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/drawable/rounded_corner.xml" value="0.2203125" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/drawable/rounded_corner_imageview.xml" value="0.2203125" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/layout/adapter_news.xml" value="0.2" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/layout/adapter_source.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/layout/dialog_filter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/layout/dialog_location.xml" value="0.14635416666666667" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/layout/filter_by_source.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/layout/fragment_news_detail.xml" value="0.2" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/layout/fragment_news_list.xml" value="0.22" />
+        <entry key="..\:/Android projects/InstantNews/app/src/main/res/layout/fragment_webview.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
